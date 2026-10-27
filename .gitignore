@@ -1,0 +1,23 @@
+
+# Compiled binaries
+*.exe
+*.out
+*.test
+/go-concurrency-order-processing
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Go workspace files (if locally generated)
+go.work
+go.work.sum
